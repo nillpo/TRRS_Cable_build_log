@@ -3,6 +3,8 @@
 * Please read through the overall process a few times before attempting.
 * The parts are all cut relatively long; please adjust their lengths to your preferences.
 
+[日本語版](README.md)
+
 [Instructions for straight plug with sleeving](#Straight-Plug-Instructions)
 
 ## Instructions for right-angle plug
