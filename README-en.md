@@ -99,57 +99,57 @@ If it passes a multimeter test, then works fine on a keyboard, the cable is comp
 
 ## Instructions for straight plug with sleeving
 
-作る際の流れはほぼ同じですが一部違います
+The instructions are roughly the same, but some of the steps are different.
 
-ストレートプラグのプラグカバーの穴の大きさがL字よりも細いので熱収縮チューブをつけるとケーブルが太くなりすぎてしまいプラグカバーを通すことができません
+Since the connector barrel on the straight plug has a smaller opening than that of the L-shaped plug, inserting the heat shrink tube below the barrel is impossible.
 
-最後の大きい熱収縮チューブをかぶせることでストレートプラグでもスリーブをつけることができるようになります
+Instead, a larger diameter shrink tube is installed over the entire connector.
 
-## 作り方
+## Instructions
 
-キットの内容
+Kit contents
 
 ![image019](./img/straight/image001.jpg)
 
-* プラグ
-* 熱収縮チューブ 2種類4本
-* スリーブ
-* パラコード
-* ケーブル
+* Connectors
+* Two sets of two shrink tubes
+* Sleeving
+* Paracord
+* Wire
 
-### プラグの使わないパーツを外す
+### Removing the unnecessary parts of the connectors
 
-赤枠で囲われているパーツは使わないので先に外しておきます
+The parts in the red box are not used, so remove them before assembly.
 ![image020](./img/straight/image002.jpg)
 
-### 細い方の熱収縮チューブのカット
+### Cut the thinner heatshrink tubes
 
 ![image023](./img/straight/image008.jpg)
-これくらいの長さにします  
-長くなるとプラグカバーが通らなくなります
+Roughly this length.  
+If they are too long, the connector barrel will not fit over them.
 
-### プラグとケーブルのはんだづけ
+### Soldering the connectors
 
-プラグ側のはんだづけ箇所を押し広げ、芯線を裏から通して表からはんだづけするとやりやすいです
+Push the connectors' solder joints outwards, and pass the wires through the holes from the inner side for easy soldering.
 ![image021](./img/straight/image003.jpg)
 
-片側が終わったら**両側分**のカットした細い方の熱収縮チューブとプラグカバーを通します
+Don't forget to insert the thinner heatshrink tube and connector barrels **for both ends** once one end is soldered.
 
-### テスターでチェック
+### Testing continuity
 
-両側のはんだづけが終わったらショートしていないかテスターでチェックしてください
+Once the connectors are soldered, check that nothing is shorting using a multimeter.
 
-### はんだづけ箇所をエポキシ接着剤で固める
+### Epoxying the solder joints
 
-ストレートプラグははんだづけ箇所が動いてしまいショートする可能性があるのでエポキシ接着剤などで固めます
+Since the straight connector has solder tabs which may move and short during use, lock them into place with epoxy or similar.
 ![image022](./img/straight/image004.jpg)
 
-### 熱収縮チューブをヒートガンなどで収縮させる
+### Shrink the heatshrink tube
 
 ![image023](./img/straight/image005.jpg)
-プラグカバーをはめて大きい方の熱収縮チューブをはめて収縮させます
+Once the thinner tubes are installed, screw on the connector barrels, then install the thicker shrink tube over the barrels.
 ![image024](./img/straight/image006.jpg)
 
-### 完成
+### Complete
 
 ![image025](./img/straight/image007.jpg)
