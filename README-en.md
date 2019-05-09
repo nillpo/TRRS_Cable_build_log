@@ -3,7 +3,7 @@
 * Please read through the overall process a few times before attempting.
 * The parts are all cut relatively long; please adjust their lengths to your preferences.
 
-[Instructions for straight plug with sleeving](#Instructions for straight plug with sleeving)
+[Instructions for straight plug with sleeving](#Straight-Plug-Instructions)
 
 ## Instructions for right-angle plug
 
@@ -97,7 +97,7 @@ If it passes a multimeter test, then works fine on a keyboard, the cable is comp
 
 ---------------
 
-## Instructions for straight plug with sleeving
+## Straight-Plug-Instructions
 
 The instructions are roughly the same, but some of the steps are different.
 
